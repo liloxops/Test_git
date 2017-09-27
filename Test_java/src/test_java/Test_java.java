@@ -17,9 +17,7 @@ public class Test_java {
     public static void main(String[] args) {
         System.out.println("Hola git!");
         
-        for (int i = 0; i < 10; i++) {
-            System.out.println("asd");
-        }
+        
     }
     
 }
